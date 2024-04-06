@@ -7,6 +7,7 @@ This basic UI allows the user to sort and filter by various specific attributes,
 The Hollywood Database UI was created using myPHPAdmin and XAMPP. 
 
 ## Schema
+![Screenshot of myPHPAdmin database](images/myPHPAdmin.png)
 
 
 

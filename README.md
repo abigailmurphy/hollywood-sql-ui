@@ -10,5 +10,6 @@ The Hollywood Database UI was created using myPHPAdmin and XAMPP.
 
 ## A Basic Run Through
 After starting mySQL Database, ProFTPD, and Apache Web Server through XAMPP (for my it is using manager-osx), I searched the path in my htdocs folder to index.php.
+
 ![Screenshot of first open](images/FirstLook.png)
 

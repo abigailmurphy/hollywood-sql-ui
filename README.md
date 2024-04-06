@@ -13,10 +13,11 @@ After starting mySQL Database, ProFTPD, and Apache Web Server through XAMPP (for
 
 ![Screenshot of first open](images/FirstLook.png)
 
-There are buttons available for pre-set queries, but there are also fields where users can type specific parameters to search by. These are not always practically useful at the moment, but more an exerscice into using the database and specific SQL queries combined with a UI.
+There are buttons available for pre-set queries, but there are also fields where users can type specific parameters to search by. These are not always practically useful at the moment, but more an exerscice into using the database and specific SQL queries combined with a UI. Results of each query will simply appear on the same page at the bottom.
 
 ![Screenshot of first open](images/secondLook.png)
 
+Here are the results of clicking on the 
 ![Screenshot of first open](images/tables.png)
 
 ![Screenshot of first open](images/enterUser.png)

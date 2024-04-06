@@ -29,7 +29,7 @@ Here is an example of how a user's email is entered to see what motion pictures 
 
 ![Screenshot of first open](images/enterUser.png)
 
-And here are the results of the query.
+And here are the results of which motion pictures "wildy@fb.com" has liked.
 
 ![Screenshot of first open](images/UserResults.png)
 

@@ -17,10 +17,19 @@ There are buttons available for pre-set queries, but there are also fields where
 
 ![Screenshot of first open](images/secondLook.png)
 
-Here are the results of clicking on the 
+Here are the results of clicking on the "View All Tables" button.
+
 ![Screenshot of first open](images/tables.png)
 
+And the results of "People with the Same Birthday" button. 
+
+![Screenshot of first open](images/BirthdayButton.png)
+
+Here is an example of how a user's email is entered to see what motion pictures they have liked.
+
 ![Screenshot of first open](images/enterUser.png)
+
+And here are the results of the query.
 
 ![Screenshot of first open](images/UserResults.png)
 
